@@ -1,1 +1,2 @@
-# wiriy-v0.1-alpha
+# Wiriy v0.1 alpha
+### It is pronounced y-ir-y
